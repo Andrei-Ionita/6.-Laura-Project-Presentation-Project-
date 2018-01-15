@@ -92,6 +92,40 @@ p.lead {
 	padding-top: 40px;
 }
 
+/* Layout for very small screens */
+
+@media only screen and (max-width: 450px) {
+	.blockquote__text {
+		font-size: 2rem;
+	}
+}
+
+/* Layout for small screens */
+
+@media only screen and (max-width: 900px) {
+	.mphone {
+		padding-left: 6px;
+	}
+	div.bottom-margin-mobile {
+		margin-bottom: 0 !important;
+	}
+	.section.bottom-margin-mobile {
+		margin-top: 30px;
+		padding: 30px 0;
+	}
+	.col_one_third.nobottommargin.col_last {
+		margin-bottom: 0 !important;
+	}
+	.container.bottom-margin-mobile {
+		padding-top: 30px;
+	}
+	.footer-logo {
+		max-width: 70px;
+	}
+	#footer div.footer-widgets-wrap {
+		padding-bottom: 40px;
+	}
+}
 
 /* Layout for large screens */
 
