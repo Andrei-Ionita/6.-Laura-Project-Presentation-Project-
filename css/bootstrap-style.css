@@ -4,6 +4,7 @@
 
 a.navbar-brand {
 	font-weight: bold;
+	padding-left: 0;
 }
 
 .navbar-brand__img {
@@ -70,9 +71,10 @@ a.navbar-brand {
 }
 
 .servicii__content p:not(.lead) {
-	line-height: 1.8;
+	/*line-height: 1.8;
 	font-size: 15px;
 	font-weight: 500;
+	*/
 }
 
 p.lead {
