@@ -125,6 +125,18 @@ p.lead {
 	#footer div.footer-widgets-wrap {
 		padding-bottom: 40px;
 	}
+	.header {
+		height: 71px;
+	}
+	.servicii__img {
+		max-width: 100%;
+	}
+	.bottom-mobile-margin {
+		margin-bottom: 40px;
+	}
+	#page-title.bottom-mobile-margin {
+		margin-bottom: 40px !important;
+	}
 }
 
 /* Layout for large screens */
