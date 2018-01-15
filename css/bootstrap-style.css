@@ -137,6 +137,12 @@ p.lead {
 	#page-title.bottom-mobile-margin {
 		margin-bottom: 40px !important;
 	}
+	.project-details {
+		display: none;
+	}
+	.si-share {
+		display:none;
+	}
 }
 
 /* Layout for large screens */
