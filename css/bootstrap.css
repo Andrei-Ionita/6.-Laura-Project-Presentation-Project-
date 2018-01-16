@@ -3372,10 +3372,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
             box-shadow: none;
   }
   .navbar-collapse.collapse {
-    display: block !important;
-    height: auto !important;
+    height: auto;
     padding-bottom: 0;
-    overflow: visible !important;
+    overflow: visible;
   }
   .navbar-collapse.in {
     overflow-y: visible;
