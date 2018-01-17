@@ -94,6 +94,10 @@ p.lead {
 	padding-top: 40px;
 }
 
+.servicii-clear {
+	clear: both;
+}
+
 /* Layout for very small screens */
 
 @media only screen and (max-width: 450px) {
