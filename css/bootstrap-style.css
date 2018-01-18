@@ -98,6 +98,14 @@ p.lead {
 	clear: both;
 }
 
+.servicii__list {
+	list-style-type: circle;
+}
+
+.servicii__list li {
+	padding: 0.5rem 0;
+}
+
 /* Layout for very small screens */
 
 @media only screen and (max-width: 450px) {
